@@ -13,6 +13,8 @@ I'm currently working at **[The IRT Systemx](https://www.irt-systemx.fr/en)** as
 - Member of the **[ConfainceAI](https://www.confiance.ai/en/)** program, one of the biggest european technological research programme on trustworthy AI
 - Focused on creating intuitive and user-friendly interfaces that make complex data easily accessible
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debiai&repo=debiai&theme=react)](https://github.com/debiai/debiai)
+
 ## My Technical Skills
 - **Frontend**: Vue3Js, JavaScript, HTML5, CSS3
 - **Backend**: Python, Node.js
@@ -28,4 +30,4 @@ I'm currently working at **[The IRT Systemx](https://www.irt-systemx.fr/en)** as
 - [A factorio blueprint analyser](https://github.com/Tomansion/factorio_blueprint_analyser) algorithm and his [associated web app](https://github.com/Tomansion/factorio_blueprint_analyser_app)
 
 ## My GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tomansion&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tomansion&theme=holi&show_icons=true&show=reviews)
