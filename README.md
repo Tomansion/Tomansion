@@ -7,7 +7,7 @@ Welcome to my GitHub profile
 - 🚀 Skilled in DevOps, I have a strong grasp of **Docker**, **docker-compose**, **Kubernetes**, and **GitHub Actions**.
 
 ## Work
-I'm currently working at **[The IRT Systemx](https://www.irt-systemx.fr/en)** as a full-stack devops software engeneer.
+I'm currently working at **[The IRT Systemx](https://www.irt-systemx.fr/en)** as a full-stack devops software engineer.
 
 - Leading the development of **[DebiAI](https://debiai.irt-systemx.fr/)**, an innovative open-source data visualization web app for AI projects
 - Member of the **[ConfainceAI](https://www.confiance.ai/en/)** program, one of the biggest european technological research programme on trustworthy AI
