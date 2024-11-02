@@ -1,7 +1,7 @@
 # Salutation, I'm Tom Mansion!
 Welcome to my GitHub profile
 
-## About Me
+## Me
 - 🌟 I specialize in full-stack development with a fondness for creating data-visualization user experiences.
 - 🔧 I enjoy working with **Vue3Js**, **Python**, and **Node.js**.
 - 🚀 Skilled in DevOps, I have a strong grasp of **Docker**, **docker-compose**, **Kubernetes**, and **GitHub Actions**.
@@ -15,17 +15,17 @@ I'm currently working at **[The IRT Systemx](https://www.irt-systemx.fr/en)** as
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debiai&repo=debiai&theme=react)](https://github.com/debiai/debiai)
 
-## My Technical Skills
+## Skills
 - **Frontend**: Vue3Js, JavaScript, HTML5, CSS3
 - **Backend**: Python, Node.js
 - **Databases**: MongoDB, ArangoDB, OpenSearch
 - **DevOps**: Docker, Kubernetes, GitHub Actions, CI/CD pipelines
 
-## Personal Projects
+## Projects
 - A [Vue3 and FastAPI WebApp template](https://github.com/Tomansion/Vue3-FastAPI-WebApp-template/) to start new Web apps quickly
 - [SantorinAI](https://github.com/Tomansion/SantorinAI), a bot player tester for the [Santorini](https://boardgamegeek.com/boardgame/194655/santorini) board game and my [deep reinforcement learning solution](https://github.com/Tomansion/ToManTorinAI)
 - [Factorio blueprint analyser](https://github.com/Tomansion/factorio_blueprint_analyser) algorithm and his [associated web app](https://github.com/Tomansion/factorio_blueprint_analyser_app)
 - [Survaillant](https://survaillant.tomansion.fr/), a single and multi player strategy game with leaderboards and AI integrated features.
 
-## My GitHub Stats
+## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tomansion&theme=holi&show_icons=true&show=reviews)
