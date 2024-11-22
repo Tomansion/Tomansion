@@ -22,9 +22,6 @@ I'm currently working at **[The IRT SystemX](https://www.irt-systemx.fr/en)** as
 - [Factorio blueprint analyzer](https://github.com/Tomansion/factorio_blueprint_analyser) algorithm and his [associated web app](https://github.com/Tomansion/factorio_blueprint_analyser_app)
 - [Survaillant](https://survaillant.tomansion.fr/), a single and multiplayer strategy game with leaderboards and AI integrated features.
 - [Custom made electro acoustic music instrument](http://tomansion.fr:8080/the-melocussion/)
-
-![image](https://github.com/user-attachments/assets/cc9e9078-9bf0-4890-a4bf-a20fe57b541d)
-
  
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tomansion&theme=holi&show_icons=true&show=reviews)
